@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TehSynapse
+- 👋 Hi, I’m @TheDarknessGit
 - 👀 I’m interested in design, development and deployment of: web applications, api services, automation scripts, and various other applications.
 - 🌱 I’m currently learning React.js, Node.js, improving code quality, version control best practices, and hosting applications.
 - 💞️ I’m looking to collaborate on anything that I find an interest in.
